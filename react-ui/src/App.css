@@ -1,0 +1,58 @@
+body {
+  background-color: rgb(255,255,255);
+}
+
+body {
+  max-width:900px;   /* Keeps the viewport from being wider than is comfortable to use.*/
+  margin:0 auto;     /* Places the content in the center of the viewport.* /
+  padding:0;         /* Removes default padding from the viewport. */
+  font-size:.95em;   /* Sets the size for all text. */
+  font-family:Verdana, Geneva, Tahoma, sans-serif;   
+  color:#006A8E;     /* An OSU color */
+  background-color: rgb(255,255,255);; /* Black is also an OSU color */
+  }
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(145, 90, 99);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: rgb(223, 197, 223);
+  color: gray;
+}
+
+caption {
+  color: rgb(223, 197, 223);
+  background-color: gray;
+}
+
+footer{
+  margin-top: 100px;
+  color:rgb(153, 151, 133)
+}
