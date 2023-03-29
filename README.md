@@ -1,7 +1,5 @@
-# This is the "Portfolio Assignment" for Web Development.
-
 ## Introduction:
-Exercise Tracker is a full stack web application designed to help User keep track of exercise. 
+Exercise Tracker is a full stack web application designed to help users keep track of exercise. 
 It is built with the MERN stack, React for the front-end UI, a REST API written with Node and Express for theback-end web service, and MongoDB for database persistence. 
 
 ## Data for the App:
